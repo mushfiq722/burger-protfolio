@@ -10,30 +10,49 @@
     background-repeat: no-repeat;
     padding-top: 50px;
 }
+.s3{
+    display: flex;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right ;
+    
+}
 #gg{
-    width: 50%;
+    width: 50%; 
 }
 #gg img{
     width: 100%;
 }
+#kk{
+    width: 50%;
+
+
+}
+#kk img{
+    width: 90%;
+    margin-top: 50px;
+}
+
 #wel{
     font-size: 50px;
 }
 p{
-    color: orange;
+    color: black;
+    font-family: 'Bona Nova', serif;
+    font-family: 'Otomanopee One', sans-serif;
 }
 body{
-    background-color: black;
+    
 }
 .we{
-    color: blanchedalmond;
+    color: rgb(100, 20, 0);
     font-family: 'Otomanopee One', sans-serif;
 }
 #fc{
     color: yellowgreen;
 }
 #h2c{
-    color: cornsilk;
+    color: rgb(241, 48, 22);
 }
 .nnn{
     width: 100%;
@@ -42,7 +61,20 @@ body{
     margin-left: 5%;
     margin-right: 5%;
     box-shadow:5px 5px 10px 10px cornsilk;
-    border-radius: 20px;
+    
     border-left: 10px solid ;
-    border-image: linear-gradient(orange, tomato);
+    border-image:linear-gradient(orange, tomato);
+    border-image-slice: 1;
+    
+}
+#his{
+    color: green;
+}
+#moni{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+footer p{
+text-align: center;
 }
